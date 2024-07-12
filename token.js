@@ -1,1 +1,1 @@
-﻿var token = 'B2BB2A6D-1AC1-4CD5-8C6A-5D2DD786C09A'; // enter your token here
+﻿var token = '23729FBD-FB95-4956-BA88-EDCEBDF6E5F8'; // enter your token here
